@@ -1,6 +1,7 @@
 {
   "after-scripts": [
-    "brew linkapps"
+    "brew linkapps",
+    "./scripts/download-ohmyzsh.sh"
   ],
   "formulas": [
     "brew-cask",
@@ -13,18 +14,40 @@
     "redis",
     "sqlite",
     "git",
+    "zopfli",
     "xctool"
   ],
   "casks": [
     "dropbox",
     "flux",
+    "1password",
     "gitup",
+    "transmission",
+    "eqmac",
+    "sequel-pro",
+    "alfred",
+    "appcode",
+    "dash",
+    "cyberduck",
+    "franz",
+    "evernote",
+    "libreoffice",
+    "numi",
     "google-chrome",
     "iterm2",
-    "transmission",
     "macdown",
-    "mplayerx",
     "pacifist",
+    "simpholders",
+    "skype",
+    "sqlitebrowser",
+    "ipvanish-vpn",
+    "mplayerx",
     "spectacle"
-  ]
+  ],
+  "symlinks": {
+    "git/.*": "~",
+    "vim/.*": "~",
+    "xvim/.*": "~",
+    "zsh/.*": "~"
+  }
 }
