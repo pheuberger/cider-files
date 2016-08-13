@@ -1,0 +1,30 @@
+{
+  "after-scripts": [
+    "brew linkapps"
+  ],
+  "formulas": [
+    "brew-cask",
+    "carthage",
+    "httpie",
+    "macvim --overwrite-system-vi",
+    "python",
+    "python3",
+    "rbenv",
+    "redis",
+    "sqlite",
+    "git",
+    "xctool"
+  ],
+  "casks": [
+    "dropbox",
+    "flux",
+    "gitup",
+    "google-chrome",
+    "iterm2",
+    "transmission",
+    "macdown",
+    "mplayerx",
+    "pacifist",
+    "spectacle"
+  ]
+}
