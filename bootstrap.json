@@ -1,7 +1,6 @@
 {
   "after-scripts": [
-    "brew linkapps",
-    "./scripts/download-ohmyzsh.sh"
+    "brew linkapps"
   ],
   "formulas": [
     "brew-cask",
@@ -15,6 +14,7 @@
     "sqlite",
     "git",
     "zopfli",
+    "fish",
     "xctool"
   ],
   "casks": [
@@ -49,6 +49,6 @@
     "git/.*": "~",
     "vim/.*": "~",
     "xvim/.*": "~",
-    "zsh/.*": "~"
+    "fish/.*": "~/.config/omf/"
   }
 }
