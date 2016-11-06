@@ -19,6 +19,7 @@
   ],
   "casks": [
     "dropbox",
+    "keka",
     "flux",
     "1password",
     "gitup",
