@@ -5,6 +5,9 @@ git clone https://github.com/pheuberger/cider-files.git ~/.cider
 
 cider restore
 
+##iTerm2##
+[iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+
 ## Fish Shell ##
 [Oh my Fish](https://github.com/oh-my-fish/oh-my-fish)
 
