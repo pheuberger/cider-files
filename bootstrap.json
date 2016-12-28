@@ -20,7 +20,6 @@
     "dropbox",
     "keka",
     "flux",
-    "1password",
     "gitup",
     "transmission",
     "sequel-pro",
@@ -46,6 +45,5 @@
     "git/.*": "~",
     "vim/.*": "~",
     "xvim/.*": "~",
-    "fish/.*": "~/.config/omf/"
   }
 }
