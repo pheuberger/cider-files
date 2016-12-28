@@ -14,7 +14,6 @@
     "sqlite",
     "git",
     "zopfli",
-    "fish",
     "xctool"
   ],
   "casks": [
